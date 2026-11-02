@@ -1,4 +1,4 @@
-# Bayesian smooth-transition exponential-decay mixed-effects model
+# Bayesian smooth-transition differential equation mixed-effects model
 
 This repository contains a **self-contained R example using simulated data only**. No ELSA data or other restricted records are included.
 
